@@ -4,7 +4,7 @@ namespace :run do
     desc "Hash me please"
     task :hash do
 
-      connect_ringzer0team('metadox', 'A0920878a')
+      connect_ringzer0team([USERNAME], [PASSWORD])
 
     end
   end
