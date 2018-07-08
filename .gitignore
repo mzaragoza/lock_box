@@ -20,6 +20,11 @@
 /tmp
 /tmp/*
 Gemfile.lock
+LockBox/config/master.key
+LockBox/log/development.log
+LockBox/storage/
+LockBox/tmp/cache/
+LockBox/tmp/storage/
 README.md.mz
 config/config.yml
 config/database.yml
@@ -30,11 +35,3 @@ erd/
 junk/
 public/assets
 public/assets/*
-public/sobrietyforwomen/
-
-
-LockBox/config/master.key
-LockBox/log/development.log
-LockBox/storage/
-LockBox/tmp/cache/
-LockBox/tmp/storage/
