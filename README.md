@@ -49,3 +49,6 @@
 ### Cipher Tools
 * [Vigenere](https://cryptii.com/vigenere-cipher)
 
+### Tools / Frameworks
+* [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit.git)
+
