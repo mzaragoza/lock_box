@@ -112,7 +112,7 @@ gem 'koala'                     # Koala is a Facebook library for Ruby, supporti
 gem 'echelon'                   # Theme Park data
 gem 'twilio-ruby', '~> 5.6.0'   # Twilio
 
-
+gem 'bootsnap', '>= 1.1.0', require: false
 gem 'rails_admin', '~> 1.2'
 
 group :development, :test do
