@@ -24,6 +24,7 @@
       * Example: ```rake run:ctf:challenge\['014', 'acidburn', 's@mepl123'\]```
     * [032](https://ringzer0team.com/challenges/32) | Can you help me find the answer to this equation - Objective is to get the answer to an arithmetic question from a string PS: tricky part is the hex and binary to integer
       * Example: ```rake run:ctf:challenge\['032', 'acidburn', 's@mepl123'\]```
+      & [075](https://ringzer0team.com/challenges/75) | Looking for password file - Objective is to read the ```/etc/passwd``` file
     * [172](https://ringzer0team.com/challenges/172) | Ask your grandpa! - Objective is to decode the pounch card
     * [218](https://ringzer0team.com/challenges/218) | Bash Jail 1 - Objective is to escape the bash jailed ssh seesion
       * Connect to the remote server via ssh ```ssh level1@challenges.ringzer0team.com -p 10219```
