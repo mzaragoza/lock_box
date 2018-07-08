@@ -31,3 +31,10 @@ junk/
 public/assets
 public/assets/*
 public/sobrietyforwomen/
+
+
+LockBox/config/master.key
+LockBox/log/development.log
+LockBox/storage/
+LockBox/tmp/cache/
+LockBox/tmp/storage/
