@@ -1,7 +1,7 @@
 namespace :run do
   namespace :ctf do
 
-    desc "ringzer0team.com CTF Challenge"
+    desc "CTF Challenge 13, 14 from ringzer0team.com"
     task :challenge, [:challenge, :useranme, :password] => [:environment] do |task, args|
       connect_ringzer0team('https://ringzer0team.com', args.challenge, args.useranme, args.password)
     end
