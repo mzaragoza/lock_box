@@ -31,3 +31,17 @@
       * Initialize a new shell ```/bin/bash```
       * redirect stdout to stderr ```awk '{system("wc "$1)}' /home/level1/flag.txt```
         * [What is awk?](https://linuxconfig.org/learning-linux-commands-awk)
+
+### TODOs
+* Add a hash analyzer to the rails app
+
+### Resources
+* [Base58 gem](https://github.com/dougal/base58)
+* [Crack SHA-1](https://www.theverge.com/2017/2/23/14712118/google-sha1-collision-broken-web-encryption-shattered)
+* [Escaping Linux CHROOT Jail](https://www.cybrary.it/0p3n/escaping-linux-chroot-jail)
+* [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer)
+*
+
+### Cipher Tools
+* [Vigenere](https://cryptii.com/vigenere-cipher)
+
