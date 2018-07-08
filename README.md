@@ -14,9 +14,6 @@
                                                      \|_________|
 
 
-### Commands
-* ```rake run:ctf:challenge\['challenge',username', 'password'\]```
-
 ### CTF Websites
 * https://ringzer0team.com
   * Completed Challenges
