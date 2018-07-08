@@ -16,6 +16,7 @@
 
 ### Commands
 * ```rake run:ctf:challenge\['challenge',username', 'password'\]```
+  * Example: ```rake run:ctf:challenge\['013', 'acidburn', 's@mepl123'\]```
 
 ### CTF Websites
 * https://ringzer0team.com
