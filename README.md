@@ -22,4 +22,5 @@
   * Completed Challenges
     * 013 | Hash me please - Objective is to hash a string using sha512 algorithm
     * 014 | Hash me reloaded - Objective is to hash a string using sha512 algorithm, however first you must convert the string from binary to ascii text output before converting using sha512
+    * 032 | Can you help me find the answer to this equation - Objective is to get the answer to an arithmetic question from a string PS: tricky part is the hex and binary to integer
     * 172 | Ask your grandpa! - Objective is to decode the pounch card
