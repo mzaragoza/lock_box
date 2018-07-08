@@ -25,12 +25,15 @@
     * [032](https://ringzer0team.com/challenges/32) | Can you help me find the answer to this equation - Objective is to get the answer to an arithmetic question from a string PS: tricky part is the hex and binary to integer
       * Example: ```rake run:ctf:challenge\['032', 'acidburn', 's@mepl123'\]```
     * [172](https://ringzer0team.com/challenges/172) | Ask your grandpa! - Objective is to decode the pounch card
-    * [218](https://ringzer0team.com/challenges/218) | Bash Jail 1
+    * [218](https://ringzer0team.com/challenges/218) | Bash Jail 1 - Objective is to escape the bash jailed ssh seesion
       * Connect to the remote server via ssh ```ssh level1@challenges.ringzer0team.com -p 10219```
         * password is ```level1```
       * Initialize a new shell ```/bin/bash```
       * redirect stdout to stderr ```awk '{system("wc "$1)}' /home/level1/flag.txt```
         * [What is awk?](https://linuxconfig.org/learning-linux-commands-awk)
+    * [223](https://ringzer0team.com/challenges/223) | PHP Jail 1 - Objective is to escape the php jailed ssh seesion
+      * Connect to the remote server via ssh ```ssh level1@challenges.ringzer0team.com -p 10223```
+      * Excute a command wrapped in an echo ```echo(file_get_contents('flag.txt'));```
 
 ### TODOs
 * Add a hash analyzer to the rails app
