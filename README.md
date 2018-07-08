@@ -21,6 +21,7 @@
 ### CTF Websites
 * https://ringzer0team.com
   * Completed Challenges
+    * 001 | Challenge 1 Bypass me if you can | Objective is to bypass the login form. Hint: SQL Injection ;-)
     * 013 | Hash me please - Objective is to hash a string using sha512 algorithm
     * 014 | Hash me reloaded - Objective is to hash a string using sha512 algorithm, however first you must convert the string from binary to ascii text output before converting using sha512
     * 032 | Can you help me find the answer to this equation - Objective is to get the answer to an arithmetic question from a string PS: tricky part is the hex and binary to integer
