@@ -25,12 +25,6 @@ gem 'friendly_id', '~> 5.1.0'   #
 # Authentication
 gem 'devise'                    #
 
-# Exception Handling
-#gem 'airbrake', '~> 6.1'       #
-
-# Theme
-gem 'bootstrap_sb_admin_base_v2'
-
 # CSS, Scss, Sass, Views
 gem 'sass-rails', '~> 5.0'      # Use SCSS for stylesheets
 
