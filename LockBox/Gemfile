@@ -15,7 +15,7 @@ gem 'rails', '~> 5.2.0'       # Bundle edge Rails instead: gem 'rails', github: 
 gem 'puma', '~> 3.11'            # Use Puma as the app server
 
 # Database, Models, Controllers
-gem 'pg', '>= 0.18', '< 2.0'    # Use postgresql as the database for Active Record
+gem 'pg', '~> 0.21'             # Use postgresql as the database for Active Record
 gem 'bcrypt', '~> 3.1.7'        # Use ActiveModel has_secure_password
 gem 'redis', '~> 3.0'           # Use Redis adapter to run Action Cable in production
 gem 'decent_exposure'           # A helper for creating declarative interfaces in controllers
